@@ -1,2 +1,1 @@
-# -Betu
-Hello 👋
+print("Hello world")
